@@ -16,6 +16,5 @@ int main() {
     printf("File Copied\n");
     close(src); 
     close(dest);
-    printf("File copied successfully\n");
     return 0;
 }
